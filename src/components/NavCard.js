@@ -12,4 +12,4 @@ const NavCard = ({name,price,image,index}) => {
     )
 }
 
-export default NavCard
+export default NavCard;
